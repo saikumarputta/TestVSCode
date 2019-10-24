@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skputta\\source\\repos\\TestVSCode\\TestVSCode.csproj": {}
+    "C:\\Users\\skputta\\source\\repos\\TestVSCode-1\\TestVSCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skputta\\source\\repos\\TestVSCode\\TestVSCode.csproj": {
+    "C:\\Users\\skputta\\source\\repos\\TestVSCode-1\\TestVSCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skputta\\source\\repos\\TestVSCode\\TestVSCode.csproj",
+        "projectUniqueName": "C:\\Users\\skputta\\source\\repos\\TestVSCode-1\\TestVSCode.csproj",
         "projectName": "TestVSCode",
-        "projectPath": "C:\\Users\\skputta\\source\\repos\\TestVSCode\\TestVSCode.csproj",
+        "projectPath": "C:\\Users\\skputta\\source\\repos\\TestVSCode-1\\TestVSCode.csproj",
         "packagesPath": "C:\\Users\\skputta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skputta\\source\\repos\\TestVSCode\\obj\\",
+        "outputPath": "C:\\Users\\skputta\\source\\repos\\TestVSCode-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\skputta\\AppData\\Roaming\\NuGet\\NuGet.Config",
