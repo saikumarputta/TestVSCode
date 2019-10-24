@@ -13629,11 +13629,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\skputta\\source\\repos\\TestVSCode-1\\TestVSCode.csproj",
+      "projectUniqueName": "C:\\Users\\skputta\\source\\repos\\TestVSCode\\TestVSCode.csproj",
       "projectName": "TestVSCode",
-      "projectPath": "C:\\Users\\skputta\\source\\repos\\TestVSCode-1\\TestVSCode.csproj",
+      "projectPath": "C:\\Users\\skputta\\source\\repos\\TestVSCode\\TestVSCode.csproj",
       "packagesPath": "C:\\Users\\skputta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\skputta\\source\\repos\\TestVSCode-1\\obj\\",
+      "outputPath": "C:\\Users\\skputta\\source\\repos\\TestVSCode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\skputta\\AppData\\Roaming\\NuGet\\NuGet.Config",
